@@ -2,6 +2,7 @@
 <p>My name is Liza Palomino</p>
 
 ## Skills
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!--
 **lizajupa04/lizajupa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
