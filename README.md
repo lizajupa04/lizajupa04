@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 <p>My name is Liza Palomino</p>
 
 ## Skills
