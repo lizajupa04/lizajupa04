@@ -1,7 +1,7 @@
 # Hi there 👋
-<p>I am Colombian, Civil Engineer 👷🏻‍♀️ and specialist in Project Management. Three years after finishing my career I started to be curious about software development and I loved it.  Since then I have not stopped learning programming and I am currently studying a technology in Software Development. I feel very happy and I am looking forward to dive into the working field later on. 
+<p>I'm Colombian, Civil Engineer 👷🏻‍♀️ and specialist in Project Management. Three years after finishing my career I started to be curious about software development and I loved it.  Since then I haven't stopped learning programming and I'm currently studying a technology in Software Development. I feel very happy, looking forward to dive into the working field later on. 
 
-I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I am in the SENA.
+I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I'm in the SENA.
 </p>
 
 <h4> If you see me outside my computer 👩‍💻❌, you can find me:</h4>
