@@ -4,7 +4,7 @@
 I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I am in the SENA.
 </p>
 
-<h6> If you see me outside my computer 👩‍💻❌, you can find me:</h6>
+<h4> If you see me outside my computer 👩‍💻❌, you can find me:</h4>
 <ul>
   <li>🎾 Playing Tennis</li>
   <li>🪴 Organizing my plants</li>
