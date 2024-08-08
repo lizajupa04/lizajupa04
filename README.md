@@ -1,6 +1,7 @@
 ## Hi there 👋
 <p>My name is Liza Palomino</p>
-<hr>
+
+## Skills
 <!--
 **lizajupa04/lizajupa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
