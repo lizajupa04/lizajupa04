@@ -1,12 +1,17 @@
 # Hi there 👋
 <p>I am Colombian, Civil Engineer 👷🏻‍♀️ and specialist in Project Management. Three years after finishing my career I started to be curious about software development and I loved it.  Since then I have not stopped learning programming and I am currently studying a technology in Software Development. I feel very happy and I am looking forward to dive into the working field later on. 
 
-I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I am in the SENA.</p>
-
-<p>
-  - 🔭 I’m currently working improving my learning in JavaScript and in my own project.
-  - 🌱 I’m currently learning ...
+I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I am in the SENA.
 </p>
+
+<h6> If you see me outside my computer 👩‍💻❌, you can find me:</h6>
+<ul>
+  <li>🎾 Playing Tennis</li>
+  <li>🪴 Organizing my plants</li>
+  <li>🎮 Playing a Video Game</li>
+  <li>🏊🏻‍♂️ Swimming</li>
+  <li>🫶🏻 With my friends and family</li>
+</ul>
 
 ## Skills
 #### Languages
