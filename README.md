@@ -1,5 +1,7 @@
 # Hi there 👋
-<p>I am Colombian, Civil Engineer and specialist in Project Management. Three years after finishing my career I started to be curious about software development and I loved it.  Since then I have not stopped learning programming and I am currently studying a technology in Software Development. I feel very happy and I am looking forward to dive into the working field later on. </p>
+<p>I am Colombian, Civil Engineer 👷🏻‍♀️ and specialist in Project Management. Three years after finishing my career I started to be curious about software development and I loved it.  Since then I have not stopped learning programming and I am currently studying a technology in Software Development. I feel very happy and I am looking forward to dive into the working field later on. 
+
+I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming.</p>
 
 ## Skills
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
