@@ -3,6 +3,11 @@
 
 I started learning through Youtube and then, while I was working and studying English in the USA, I applied to Shecodes company, which gave me a scholarship to get certified as a web designer. It was an achievement for me taking my first steps in programming. And now I am in the SENA.</p>
 
+<p>
+  - 🔭 I’m currently working improving my learning in JavaScript and in my own project.
+  - 🌱 I’m currently learning ...
+</p>
+
 ## Skills
 #### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,8 +31,7 @@ I started learning through Youtube and then, while I was working and studying En
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
 <!--
 **lizajupa04/lizajupa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://ileriayo.github.io/markdown-badges/
